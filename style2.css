@@ -1,0 +1,30 @@
+body{
+	background-image:url(backm.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	text-align:center;
+	color:red;
+	background-color:#4d4dff;
+	margin-right:150px;
+	margin-left:150px;
+	padding:10px;
+	border-radius:10px 10px 10px 10px;
+	font-size:35pt;
+	font-family:Goudy Stout;
+}
+pre.details{
+	color:white;
+	font-size:15pt;
+	font-family:Kristen ITC;
+}
+p.name{
+	color:red;
+	margin-left:60px;
+	margin-right:260px;
+	font-size:20pt;
+	background-color:white;
+	border-radius:20px 20px 20px 20px;
+	text-align:center;
+}

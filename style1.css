@@ -1,0 +1,83 @@
+body{
+	background:url(back1.jpg) right bottom no-repeat;
+	background-size:cover;
+	border-style:inset;
+	border-width:10px 0px;
+	border-color:#ff00ff;
+	margin:0 0 0 0;
+	background-position: left top;
+	background-repeat:no-repeat;
+}
+#heading{text-align:center; 
+
+	border-style:solid;
+	font-size:30pt;
+	background-image:url(back3.jpg);
+	background-position:top;
+	border-radius:8px 8px 8px 8px;
+	font-family:algerian;
+	color:red;
+	padding:0px;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#details{
+	background-image:url(back7.png);
+	background-repeat: no-repeat;
+	background-size: 1200px 900px;
+	background-position: center;
+	padding:5px 10px;
+	margin-top:50px;
+}
+table{
+	margin-left:370px;
+	margin-top:0px;
+}
+table th,td{
+font-size:20pt;
+padding:15px;
+}
+th.head{
+	text-align:left;
+	width:300px;
+	font-family:Buxton Sketch;
+	background-color:yellow;
+	border-radius:5px 45px 45px 5px;
+	padding:5px;
+	padding-left:10px;
+}
+td.cell{
+	text-align:center;
+	font-family:Eras Medium ITC;
+	background-color:yellow;
+	border-radius:45px 5px 5px 45px;
+}
+img{
+	width:280px;
+	height:350px;
+	float:right;
+	margin-right:40px;
+	border-radius:7px 7px 7px 7px;
+}
+div#interest{
+	background: url(back4.jpeg) left bottom no-repeat;
+	background-size:900px 700px;
+    border-radius:10px 10px 10px 10px;
+    margin-left:20px;
+}
+p{
+	margin-left:50px;
+	font-size:25pt;
+	color:red;
+}
+ul{
+	list-style-type:square;
+	font-size:20pt;
+	padding:20px
+	margin-left:20px;
+	font-family:SketchFlow Print;
+}
+ul li{
+
+}
